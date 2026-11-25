@@ -1,0 +1,8 @@
+{
+  "name": "news-image-20261125",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "One image that sums up the world news of Wednesday 25 November 2026, entered in make.fun's news-image bounty.",
+  "license": "MIT"
+}
